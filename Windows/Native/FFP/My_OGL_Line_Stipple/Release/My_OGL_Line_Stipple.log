@@ -1,0 +1,6 @@
+﻿  My_OGL_Line_Stipple.cpp
+e:\opengl\windows native\my_ogl_line_stipple\my_ogl_line_stipple\my_ogl_line_stipple.cpp(277): warning C4101: 'i': unreferenced local variable
+  Generating code
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  My_OGL_Line_Stipple.vcxproj -> E:\OpenGL\Windows Native\My_OGL_Line_Stipple\My_OGL_Line_Stipple\Release\My_OGL_Line_Stipple.exe

@@ -1,0 +1,3 @@
+﻿  Source.c
+e:\c programs assignments\recurssionexample\source.c(34): warning C4715: 'BinaryNum': not all control paths return a value
+  RecurssionExample.vcxproj -> E:\C Programs Assignments\RecurssionExample\Debug\RecurssionExample.exe

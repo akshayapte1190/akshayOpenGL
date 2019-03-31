@@ -1,0 +1,6 @@
+﻿  FirstPrg.cpp
+e:\c programs assignments\ide\firstprg\firstprg.cpp(15): warning C4477: 'scanf_s' : format string '%d' requires an argument of type 'int *', but variadic argument 2 has type 'char *'
+  e:\c programs assignments\ide\firstprg\firstprg.cpp(15): note: consider using '%hhd' in the format string
+e:\c programs assignments\ide\firstprg\firstprg.cpp(15): warning C4474: 'scanf_s' : too many arguments passed for format string
+  e:\c programs assignments\ide\firstprg\firstprg.cpp(15): note: placeholders and their parameters expect 2 variadic arguments, but 3 were provided
+  FirstPrg.vcxproj -> E:\C Programs Assignments\IDE\FirstPrg\Debug\FirstPrg.exe
